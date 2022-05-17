@@ -8,7 +8,7 @@ hi, i'm dorian; i'm sixteen years old and going to be a high school junior in th
 i'm 420 cm, 0.69% body fat, and my iq is 80085. it's hard being a sigma male
 
 ## this.skills
-i technically started programming around six years ago, when i was 10, but that was mostly just failing at following minecraft mod tutorials. i'm decent with java (obviously), py, js/ts, c/c++, and lua, and though they're just markup i'm counting html/css. i've dabbled in a lot of other languages and am comfortable with bouncing back and forth and learning new ones, but those just have to be the ones i use most.
+i technically started programming around six years ago, when i was 10, but that was mostly just failing at following minecraft mod tutorials. i know the basics with java (obviously), py, js/ts, c/c++, and lua, and though they're just markup i'm counting html/css. i've dabbled in a lot of other languages and am comfortable with bouncing back and forth and learning new ones, but those just have to be the ones i use most. i'm also kind of bad so like im sorry guys
 
 ## this.interests
 hey, i'm a teenage boy. video games are my crack cocaine. i also like reading and am known to indulge in nostalgic stuff, namely monster high & homestuck now that my entire friendgroup is into it, and my favourite book series is douglas adam's hitchhiker's guide to the galaxy, which if you don't like i don't trust you.
