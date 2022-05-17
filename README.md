@@ -15,6 +15,7 @@ hey, i'm a teenage boy. video games are my crack cocaine. i also like reading an
 
 ## this.cat
 my cat
+
 <details>
 ![this is a dog not a cat, i just think i'm funny](https://media.discordapp.net/attachments/568917696851214366/677658070838411265/image0.jpg?width=784&height=1045)
 </details>
