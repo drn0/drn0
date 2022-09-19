@@ -2,7 +2,7 @@
 oh boy.
 
 ## Person dorian = new Person('loser')
-hi, i'm dorian; i'm sixteen years old and going to be a high school junior in the fall. i have been on and off on github for awhile but i'm embarassed by how cringe i was awhile ago so i just decided to git gud and restart, and yet i'm still cringe. at least i'm free
+hi, i'm dorian; i'm sixteen years old and a certified high school junior. i have been on and off on github for awhile but i'm embarassed by how cringe i was awhile ago so i just decided to git gud and restart, and yet i'm still cringe. at least i'm free
 
 ## this.specs
 i'm 420 cm, 0.69% body fat, and my iq is 80085. it's hard being a sigma male
